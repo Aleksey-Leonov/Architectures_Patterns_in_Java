@@ -1,8 +1,6 @@
-package com.company.factory.method.application;
+package com.company.factoryMethod.application;
 
-import com.company.factory.method.Dialog;
-import com.company.factory.method.WebDialog;
-import com.company.factory.method.WindowsDialog;
+import com.company.factoryMethod.Dialog;
 
 public class Application {
     private Dialog dialog;

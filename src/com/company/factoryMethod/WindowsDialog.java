@@ -1,4 +1,4 @@
-package com.company.factory.method;
+package com.company.factoryMethod;
 
 public class WindowsDialog extends Dialog {
     @Override
