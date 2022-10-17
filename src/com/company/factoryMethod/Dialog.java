@@ -1,4 +1,4 @@
-package com.company.factory.method;
+package com.company.factoryMethod;
 
 public abstract class Dialog {
 
