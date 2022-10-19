@@ -1,0 +1,7 @@
+package com.company.structuralPatterns.decorator.decorators;
+
+public interface DataSource {
+
+    void writeData(String data);
+    String readData();
+}
