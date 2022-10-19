@@ -1,4 +1,4 @@
-package com.company.factory.method;
+package com.company.factoryMethod;
 
 public class HTMLButton implements Button {
 
@@ -9,6 +9,6 @@ public class HTMLButton implements Button {
 
     @Override
     public void onClick() {
-        System.out.println("Произошло событие кнопки HTML");
+        System.out.println("Произошло событие кнопки HTMLe");
     }
 }
